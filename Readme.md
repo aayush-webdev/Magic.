@@ -1,6 +1,6 @@
 # ✨ Magic ✨
 
-> *"With great code comes great responsibility... and great magic!"* — Some wise developer at 3 AM
+> *"With great code comes great responsibility... and great magic!"* — Me to myself at 3 AM
 
 ---
 
